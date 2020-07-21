@@ -1,2 +1,2 @@
 # anamoly-detection
-This repository aims at implementing anamoly detection techniques for a sample of data
+This repository contains original codes from estimating GES score and Python Command Line program for retrieving the data.
